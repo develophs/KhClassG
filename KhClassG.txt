@@ -7,3 +7,5 @@
 막쓰는 메모장
 
 아이유
+
+Repository 세팅 후 push
