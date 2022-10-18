@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1
 2
 3
@@ -11,3 +12,6 @@
 Repository 세팅 후 push
 
 동일이형님 액세스 추가
+=======
+Master Branch 건드리지 마세요.
+>>>>>>> dd12b238c8afad8ce4de2151a22e9232d3ea4471
